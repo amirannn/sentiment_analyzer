@@ -28,7 +28,7 @@ class Config
         "neednt", "needn't", "never", "none", "nope", "nor", "not", "nothing", "nowhere",
         "oughtnt", "shant", "shouldnt", "uhuh", "wasnt", "werent",
         "oughtn't", "shan't", "shouldn't", "uh-uh", "wasn't", "weren't",
-        "without", "wont", "wouldnt", "won't", "wouldn't", "rarely", "seldom", "despite"];
+        "without", "wont", "wouldnt", "won't", "wouldn't", "rarely", "seldom", "despite", "بی "];
 
     //booster/dampener 'intensifiers' or 'degree adverbs'
     //http://en.wiktionary.org/wiki/Category:English_degree_adverbs
